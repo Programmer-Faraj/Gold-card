@@ -1,2 +1,2 @@
 # Gold-card
-A an assignment project from my programming 2 course
+An assignment project from my programming 2 course
