@@ -21,7 +21,7 @@ namespace GoldCard
         public static List<Customer> VerfiyCustomerData(string receivedData)
         {
             var customers = new List<Customer>();
-
+            /////////////////////////////////////////////////////7
             try
             { 
             // Passing a path to our database file
