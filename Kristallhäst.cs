@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GoldCard
 {
     internal class Kristallhäst : Card
-    {
-        public Kristallhäst(string SerialNumber, string Type) : base(SerialNumber, Type) { }
+    {   // Defining a constructer for the sub-class Kristallhäst and calling the constructor of the base class by passing the required parameters
+        public Kristallhäst(string serialNumber, string type) : base(serialNumber, type) { }
     }
 }

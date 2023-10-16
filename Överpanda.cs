@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GoldCard
 {
     internal class Överpanda : Card
-    {
-        public  Överpanda(string SerialNumber, string Type) : base(SerialNumber, Type) { }
+    {   // Defining a constructer for the sub-class Överpanda and calling the constructor of the base class by passing the required parameters
+        public  Överpanda(string serialNumber, string type) : base(serialNumber, type) { }
     }
 }
